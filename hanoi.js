@@ -1,4 +1,3 @@
-alert("si funciona");
 var cuerpo;
 var cuadro1 = new Cuadro();
 var cuadro2 = new Cuadro();
