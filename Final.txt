@@ -1,0 +1,6 @@
+Dar los mensajes de movimientos ilegales
+el mensaje de victoria
+
+terminar diseño de las cajas
+contador de movimientos
+reinicio de juego
